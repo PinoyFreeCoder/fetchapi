@@ -4,7 +4,7 @@ Sa lesson nato pag aaralan natin kung pano ba ginagamit ang Fetch API sa JavaScr
 
 ## Getting Started
 
-Download the this repository or clone it using Git Clone
+Download this repository or clone it using Git Clone
 
 ```
 $ git https://github.com/PinoyFreeCoder/fetchapi.git
